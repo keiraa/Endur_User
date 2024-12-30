@@ -1,6 +1,6 @@
 # Endurance_User
 @settings { 
-  font-size: 40;
+  font-size: 50;
 }
 
 This is a Microservice which enables and handles the User related functionality of the **Endurance** (A Platform where you can improve your coding skills).
